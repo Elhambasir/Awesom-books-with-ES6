@@ -11,4 +11,3 @@ export default class elements {
     addBtn = document.querySelector('.btnAdd');
     removeButton = document.querySelector('#rm');
 }
-

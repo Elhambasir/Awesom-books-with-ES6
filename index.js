@@ -1,6 +1,5 @@
 import element from './modules/element.js';
 import book from './modules/book.js';
-import { removeFun } from './modules/book.js';
 import { DateTime } from './node_modules/luxon/src/luxon.js';
 const bookObject1 = new book();
 const elementObject1 = new element();
